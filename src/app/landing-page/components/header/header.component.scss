@@ -1,0 +1,22 @@
+.navbar {
+  background-color: black;
+}
+
+a {
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+li > a {
+  margin: 0 15px;
+}
+
+li > a:hover {
+  color: #3cb371;
+  font-weight: 400;
+}
+
+.navbar-brand {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 25px;
+}
